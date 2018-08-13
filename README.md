@@ -1,2 +1,2 @@
 # NumOracle
-Number guessing machine
+Just another number guessing machine 
