@@ -1,0 +1,2 @@
+# NumOracle
+Number guessing machine
